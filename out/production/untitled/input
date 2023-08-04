@@ -1,0 +1,5 @@
+S -> mXY | mY | mXC | mC | p
+X -> mX | m
+Y -> mXD | mD | o
+O -> o
+P -> p

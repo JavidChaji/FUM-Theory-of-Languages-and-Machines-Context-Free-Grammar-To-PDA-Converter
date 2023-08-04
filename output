@@ -1,0 +1,12 @@
+GRAMMER:
+TRANSATION FUNCTION:
+δ(q0, λ, z) = {(q1, Sz)}
+δ(q1, λ, z) = {(qf, λ)}
+PDA : 
+STATES : 
+q0
+q1
+qf
+Transition Functions :
+δ(q0, λ, z) = {(q1, Sz)}
+δ(q1, λ, z) = {(qf, λ)}

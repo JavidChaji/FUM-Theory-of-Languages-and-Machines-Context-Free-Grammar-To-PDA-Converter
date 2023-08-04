@@ -1,0 +1,41 @@
+GRAMMER:
+S -> [mXY, mY, mXC, mC, p]
+X -> [mX, m]
+Y -> [mXD, mD, o]
+O -> [o]
+P -> [p]
+TRANSATION FUNCTION:
+δ(q0, λ, z) = {(q1, Sz)}
+δ(q1, m, S) = {(q1, XY)}
+δ(q1, m, S) = {(q1, Y)}
+δ(q1, m, S) = {(q1, XC)}
+δ(q1, m, S) = {(q1, C)}
+δ(q1, p, S) = {(q1, λ)}
+δ(q1, m, X) = {(q1, X)}
+δ(q1, m, X) = {(q1, λ)}
+δ(q1, m, Y) = {(q1, XD)}
+δ(q1, m, Y) = {(q1, D)}
+δ(q1, o, Y) = {(q1, λ)}
+δ(q1, o, O) = {(q1, λ)}
+δ(q1, p, P) = {(q1, λ)}
+δ(q1, λ, z) = {(qf, λ)}
+PDA : 
+STATES : 
+q0
+q1
+qf
+Transition Functions :
+δ(q0, λ, z) = {(q1, Sz)}
+δ(q1, m, S) = {(q1, XY)}
+δ(q1, m, S) = {(q1, Y)}
+δ(q1, m, S) = {(q1, XC)}
+δ(q1, m, S) = {(q1, C)}
+δ(q1, p, S) = {(q1, λ)}
+δ(q1, m, X) = {(q1, X)}
+δ(q1, m, X) = {(q1, λ)}
+δ(q1, m, Y) = {(q1, XD)}
+δ(q1, m, Y) = {(q1, D)}
+δ(q1, o, Y) = {(q1, λ)}
+δ(q1, o, O) = {(q1, λ)}
+δ(q1, p, P) = {(q1, λ)}
+δ(q1, λ, z) = {(qf, λ)}
