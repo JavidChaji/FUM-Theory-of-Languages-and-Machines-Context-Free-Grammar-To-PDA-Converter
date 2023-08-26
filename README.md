@@ -1,5 +1,3 @@
-[repository-name]: FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
-
 
 <a name="readme-top"></a>
 
@@ -27,9 +25,9 @@ Writing a Converter for converting Context Free Grammar To Pushdown Automata
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/[repository-name].svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/[repository-name]/graphs/contributors
+[contributors-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/graphs/contributors
 
 <!-- Forks -->
 [forks-shield]: https://img.shields.io/github/forks/javidchaji/[repository-name].svg?style=for-the-badge
