@@ -51,7 +51,7 @@ Writing a Converter for converting Context Free Grammar To Pushdown Automata
 <!-- License -->
 [license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/blob/master/LICENSE
 
 
 <!-- Linkedin -->
