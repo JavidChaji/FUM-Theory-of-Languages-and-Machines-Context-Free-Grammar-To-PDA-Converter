@@ -30,18 +30,19 @@ Writing a Converter for converting Context Free Grammar To Pushdown Automata
 [contributors-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/BreadcrumbsFUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
 .svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/BreadcrumbsFUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
+[forks-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
 /network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/BreadcrumbsFUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
 .svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter
+/stargazers
 
 
 <!-- Issues -->
