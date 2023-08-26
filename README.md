@@ -32,9 +32,9 @@ Writing a Converter for converting Context Free Grammar To Pushdown Automata
 [contributors-url]: https://github.com/javidchaji/[repository-name]/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/[repository-name].svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/[repository-name]/network/members
 
 
 <!-- Stars -->
