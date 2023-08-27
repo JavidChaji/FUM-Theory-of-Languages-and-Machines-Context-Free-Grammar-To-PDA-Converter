@@ -58,5 +58,3 @@ Writing a Converter for converting Context Free Grammar To Pushdown Automata
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
-<!-- Product-Screenshot -->
-[Product-Screenshot]: images/screenshot.png
