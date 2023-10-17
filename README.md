@@ -55,7 +55,7 @@ Writing a Converter for converting Context Free Grammar To Pushdown Automata
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Java][Java-badge]][Java-url]
+* [![Java][Java-com]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,5 +162,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Java-badge]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white
+[Java.com]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white
 [Java-url]: https://www.java.com
