@@ -162,5 +162,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Java-badge]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=javas&logoColor=white
+[Java-badge]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white
 [Java-url]: https://www.java.com
