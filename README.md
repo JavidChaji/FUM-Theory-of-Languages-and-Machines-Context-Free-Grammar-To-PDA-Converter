@@ -142,15 +142,15 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/issues
 
 
 <!-- License -->
