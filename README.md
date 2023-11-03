@@ -136,9 +136,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Context-Free-Grammar-To-PDA-Converter/network/members
 
 
 <!-- Stars -->
