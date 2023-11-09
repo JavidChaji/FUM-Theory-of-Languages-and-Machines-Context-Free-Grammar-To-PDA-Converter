@@ -1,14 +1,10 @@
-
 <a name="readme-top"></a>
-
 
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
-
-
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
@@ -48,22 +44,15 @@ Writing a Converter for converting Context Free Grammar To Pushdown Automata
 
 
 
-
-
-
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
 Technologies and Tools Utilized in this Project
 
-
 * [![OpenJDK][OpenJDK-Shield]][OpenJDK-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -82,7 +71,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -106,7 +94,6 @@ Project Link: [https://github.com/JavidChaji/FUM-Theory-of-Languages-and-Machine
 
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -122,7 +109,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
